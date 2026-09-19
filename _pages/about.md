@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
 ## Academic Background
 
@@ -40,11 +40,11 @@ My research interests include:
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv)
    - *Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He*
-   - GitHub code repository: [Vision4Chart](https://github.com/Vicent0205/Vision4Chart).
+   - GitHub code repository: Vision4Chart.
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)
    - *Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He*
-   - GitHub code repository: [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane).
+   - GitHub code repository: Universal_Truthfulness_Hyperplane.
 
 **Co-authored papers:**
 
